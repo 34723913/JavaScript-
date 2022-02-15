@@ -1,2 +1,1 @@
-1.Hello World!
-2.Hello World 2!
+一些在學習JS時候的代碼紀錄，就當作是一個代碼倉庫就好XD
